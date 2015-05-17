@@ -3,7 +3,7 @@ A "macro" written in JavaScript that lets you download all your activities on Ga
 
 # Usage
 
-1. Copy the content of the file "gc-activities-export.js" into the clipboard.
+1. Copy the content of the file [gc-activities-export.js](https://raw.githubusercontent.com/strille/garmin-connect-activities-export/master/gc-activities-export.js) into the clipboard.
 2. Login to Garmin Connect and go to the [activities page](https://connect.garmin.com/modern/activities).
 3. Open the browser's console (F12).
 4. Paste the copied script into the prompt and run.
